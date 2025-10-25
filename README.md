@@ -10,22 +10,21 @@
 ---
 
 ### 🔧 Tech Stack  
-- **Languages:** Python, JavaScript, MATLAB, C (basics)  
+- **Languages:** Python, C++ for arduino, C (basics)  
 - **Frontend:** HTML, CSS, JS  
-- **Backend / Tools:** Node.js, Git, MongoDB (learning)  
+- **Backend / Tools:** Django
 - **Special Interests:** Robotics, Automation, Control Systems  
 
 ---
 
 ### 📌 Featured Projects  
-- ⚡ **Customer’s Connect** → A web app with profile & dashboard functionality (HTML, CSS, JS, Node.js).  
-- 🎶 **Hymn App** → Search hymns by number or title, optimized for church use.  
+- ⚡ **C-HUB** → A web app with profile & dashboard functionality (HTML, CSS, JS, Node.js).  
+- **Smart Gas Leak and Cylinder Level Monitoring System** A smart gas safety and explotion prevention device 
 
 ---
 
 🌱 Currently Learning  
-- Advanced **JavaScript** & backend development  
-- **Go language** for systems programming  
+- **Django**
 - **Robotics & Automation frameworks**  
 
 ---
